@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="java/ObjectAvalanche"/>
+	<classpathentry kind="src" output="java/ObjectAvalanche" path="java/ObjectAvalanche"/>
+	<classpathentry kind="src" output="java/PrimitiveMathTest" path="java/PrimitiveMathTest"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="output" path="java/ObjectAvalanche"/>
+	<classpathentry kind="output" path="java/"/>
 </classpath>
