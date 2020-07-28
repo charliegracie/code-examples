@@ -7,6 +7,6 @@ public class Handler {
     }
 
     public int doIt() {
-        return inner.getField();
+        return inner.getValue();
     }
 }

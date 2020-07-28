@@ -1,11 +1,3 @@
-class Inner {
-    int field;
-
-    public Inner() {
-        field = 7;
-    }
-
-    public int getField() {
-        return field;
-    }
+abstract class Inner {
+    public abstract int getValue();
 }

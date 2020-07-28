@@ -1,5 +1,5 @@
 class InnerImpl2 extends Inner {
-    public int getField() {
-        return field + 9;
+    public int getValue() {
+        return 9;
     }
 }
